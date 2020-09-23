@@ -15,7 +15,7 @@ Simple script for ddCt analysis of qPCR data for pharmacologists. It calculates 
 
 # How to:
 
-1. Prepare you datafile following formatting in example file:
+1. Prepare you datafile following formatting in example file: exampleData.csv
 
 | Col1: "treatment" | Col2: name of the refernce Gene, eg: "B2M"| Col3: name of the gene of interest, eg: "CCL17"  |
 | ---------------- |:-----------------------------------------:| ------------------------------------------------:|
@@ -26,7 +26,7 @@ Simple script for ddCt analysis of qPCR data for pharmacologists. It calculates 
 3. Run!
 4. Type name of the vehicle group, which will serve as a reference to calculate fold change
 5. Select if you want to remove outliers
-6. Select if you want to calculate duplicate means first, if yes then data file should formatted as in: exampleData.csv
+6. Select if you want to calculate duplicate means first, if yes then data file should formatted as in: exampleDuplicates.csv
 
 | Col1: "treatment" | Col2: name of the refernce Gene, eg: "B2M"| Col3: duplicate values of refernce gene, you can name it anything you want  | Col4: name of the gene of interest, eg: "CCL17"  |: Col3: duplicate values of refernce gene, you can name it anything you want| 
 | ---------------- |:-----------------------------------------:| ------------------------------------------------:|------------------------------------------------:|------------------------------------------------:|
