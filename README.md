@@ -2,16 +2,16 @@
 Simple script for ddCt analysis of qPCR data for pharmacologists. It calculates fold change based on raw CT values for reference gene and gene of interest for specific treatment groups and returns XLSX file containing summary statistics (including means, standard deviations, N, SEM, min, max and normality distributtion) and descriptive statistics from Tukey post-hoc analysis of between group differences. Seperate files include results of ANOVA analysis and JPEG image of scatterplot.  
 
 # Features:
-*summary and descriptive statistics - ANOVA and Tukey
-*scatterplot
-*mean calculation from duplicate values
-*automatic outlier analysis and removal
+* summary and descriptive statistics - ANOVA and Tukey
+* scatterplot
+* mean calculation from duplicate values
+* automatic outlier analysis and removal
 
 # Requirements:
-*JAVA
-*library("beeswarm")
-*library("yarrr")
-*library("xlsx")
+* JAVA
+* library("beeswarm")
+* library("yarrr")
+* library("xlsx")
 
 # How to:
 
