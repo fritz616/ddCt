@@ -32,4 +32,4 @@ Simple script for ddCt analysis of qPCR data for pharmacologists. It calculates 
 | ---------------- |:-----------------------------------------:| ------------------------------------------------:|------------------------------------------------:|------------------------------------------------:|
 | VEHICLE     | 18,84 | 18,43 | 20,84 | 20,43 |
 | TREATED     | 18,75 |   18,14 | 20,75 |   20,14 |
-7. Results of you analysis are ready in myDocuments folder
+7. Results of your analysis are ready in myDocuments folder
